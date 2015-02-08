@@ -1,0 +1,23 @@
+{
+  "name": "ng-img-thumb",
+  "version": "0.0.0",
+  "authors": [
+    "jl- <i.dragonxx@gmail.com>"
+  ],
+  "description": "'img file preview'",
+  "keywords": [
+    "angular",
+    "file",
+    "img",
+    "preview"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/jl-/ng-img-thumb",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
