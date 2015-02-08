@@ -38,7 +38,6 @@ angular.module('ngImgThumb')
                     }
                     loadImg();
                 }
-
             };
         }
     ]);
