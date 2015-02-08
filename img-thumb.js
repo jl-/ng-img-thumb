@@ -3,7 +3,7 @@
 /*========
 thanks to https://github.com/nervgh/angular-file-upload/blob/master/examples/image-preview/directives.js
 ================*/
-angular.module('ngImgThumb')
+angular.module('ngImgThumb',[])
     .directive('imgThumb', ['$window',
         function($window) {
             var helper = {
