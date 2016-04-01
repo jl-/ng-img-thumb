@@ -11,6 +11,9 @@
     "img",
     "preview"
   ],
+  "main": [
+    "./img-thumb.js"
+  ],
   "license": "MIT",
   "homepage": "https://github.com/jl-/ng-img-thumb",
   "ignore": [
